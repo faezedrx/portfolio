@@ -2,8 +2,6 @@
 
 This repository showcases a portfolio application built using Streamlit, highlighting various projects and applications developed by Faezeh Darbeheshti.
 
-![Portfolio Preview](https://your-image-url-here.com)
-
 ## About
 
 Hello! I'm Faezeh Darbeheshti, a final year Web Development student with a passion for creating innovative tech solutions. This portfolio serves as a glimpse into my projects and interests in the tech world.
