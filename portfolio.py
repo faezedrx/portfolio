@@ -59,7 +59,7 @@ def main():
         },
         {
             "title": "Lottery App - with JS",
-            "description": "This is a simple and fancy lottery application built with HTML, CSS, and JavaScript",
+            "description": "This is a simple and fancy lottery application built with HTML, CSS, and JavaScript. You can add names to a list and then click the "Draw Lottery" button.",
             "image": "Lottery-App.jpg",
             "link": "https://faezedrx.github.io/lottery-app-js/"
         }
