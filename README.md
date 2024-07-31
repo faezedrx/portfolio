@@ -42,6 +42,10 @@ Here are some of the projects featured in this portfolio:
    - Fancy lottery application using HTML, CSS, and JavaScript.
    - [Try Lottery App](https://faezedrx.github.io/lottery-app-js/)
 
+8. **BAMBOO site - with PHP**
+   - A efficient task management application built with PHP and MySQL, featuring user authentication, task scheduling, and email reminders.
+   - [Use BAMBOO site](https://bamboo-services.ir/)
+
 
 ## How to Run
 
