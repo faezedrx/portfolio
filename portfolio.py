@@ -52,6 +52,12 @@ def main():
             "link": "https://faezedrx.github.io/tic-tac-toe-game-js/"
         },
         {
+            "title": "bamboo",
+            "description": "A simple and efficient task management application built with PHP and MySQL, featuring user authentication, task scheduling, and email reminders.",
+            "image": "bamboo-s.png",
+            "link": "https://bamboo-services.ir/"
+        },
+        {
             "title": "Lottery App - with JS",
             "description": "This is a simple and fancy lottery application built with HTML, CSS, and JavaScript",
             "image": "Lottery-App.jpg",
